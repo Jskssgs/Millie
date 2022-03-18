@@ -1,5 +1,5 @@
 let fs = require('fs')
-global.owner = ['918113921898'] // Put your number here
+global.owner = ['905379649077'] // Put your number here
 global.mods =  JSON.parse(fs.readFileSync('./src/moderator.json'))// Moderator?
 global.prems = JSON.parse(fs.readFileSync('./src/premium.json')) // Premium users do not need a limit
 global.tod = JSON.parse(fs.readFileSync('./src/tod.json'))
@@ -32,15 +32,15 @@ global.APIKeys = { // The APIKey is here
 }
 
 // Sticker WM
-global.packname = '💋 ᴍɪʟʟɪᴇ 💋'
-global.author = 'Ⓝ🅔Ⓔ🅡Ⓐ🅙'
+global.packname = '💋 joker adanali gg 💋'
+global.author = 'joker adanali gg'
 
 
 global.wait = '_*Please Wait..*_'
 global.eror = '_*Server Error*_'
 global.fla = 'https://github.com/neera-j/Bot-Files/blob/main/images/millie.jpg'
 
-global.watermark = '© ᴍɪʟʟɪᴇ'
+global.watermark = '© joker adanali gg'
 
 global.multiplier = 69 // The higher it is, the harder it is to level up
 
